@@ -1,4 +1,4 @@
 [build]  
 base = "views"
 
-  publish = "views" 
+
