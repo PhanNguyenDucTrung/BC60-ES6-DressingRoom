@@ -1,4 +1,5 @@
 [build]  
-base = "views"
+ base = "views"
+  publish = "views"
 
 
